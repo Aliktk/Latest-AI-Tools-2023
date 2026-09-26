@@ -1,88 +1,228 @@
-<h1 align="center"><b>🔽 list-of-70-AI-tools 🔽</b></h1>
+<h1 align="center">🤖 The Latest AI Tools Directory</h1>
 
-# 1️⃣ Hello
+<p align="center"><b>A curated, regularly-updated list of 100+ AI tools — for juniors, seniors, and everyone building with AI.</b></p>
 
-The "Latest-AI-Tools-2023" repository is an extensive collection of 70 cutting-edge AI tools that can be utilized by anyone interested in the field of artificial intelligence. The repository is meticulously organized in a tabular format, allowing for easy comparison and analysis of features among the different tools. This comprehensive list encompasses a wide range of AI applications, including but not limited to machine learning, natural language processing, computer vision, data analysis, and more. Whether you are a seasoned AI professional or a beginner, this repository serves as a valuable resource for exploring and leveraging the latest advancements in AI technology.
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20updated-September%202026-brightgreen" alt="Last updated" />
+  <img src="https://img.shields.io/badge/AI%20tools-100%2B-blue" alt="Tools listed" />
+  <img src="https://img.shields.io/badge/PRs-welcome-orange" alt="PRs welcome" />
+  <a href="https://github.com/Aliktk/Latest-AI-Tools/stargazers"><img src="https://img.shields.io/github/stars/Aliktk/Latest-AI-Tools?style=social" alt="GitHub stars" /></a>
+</p>
 
+---
 
-# 2️⃣ A comprehensive list of 70 AI tools
+## 👋 About this list
 
-| Name                                      | Description            |   Link    |
-|:-----------------------------------------:|:----------------------:|:---------:|
-| ChatGPT                                   | ChatGPT is an advanced language model that is optimized for dialogue. It can engage in natural language conversations with humans and answer follow-up questions, challenge incorrect assumptions, and reject inappropriate requests. It uses a deep learning algorithm to understand and generate language.            |   [Link](https://chat.openai.com/chat)    |
-| Copilot                                   | GitHub Copilot is an AI-powered tool that suggests code and functions in real-time based on a user's code and comments. It uses OpenAI's Codex technology, which is trained on a massive corpus of code, to generate high-quality suggestions that are tailored to the user's needs.            |   [Link](https://github.com/features/copilot)    |
-| Midjourney                                | Midjourney is an AI art generator that is based on the Stable Diffusion algorithm. It creates high-quality, artistic images based on text descriptions, and it can be used to create a variety of styles and moods.            |   [Link](https://www.midjourney.com/home/)    |
-| DallE-2                                   | DALL·E 2 is an artificial intelligence program that can generate original and highly realistic images and artwork based on a given text description. It uses a neural network to create images that match the description, and it can produce a wide variety of visuals, ranging from mundane objects to surreal scenes.            |   [Link](https://openai.com/product/dall-e-2)    |
-| Stable Diffusion                          | Stable Diffusion is another AI program that can generate detailed images based on text descriptions. It uses a diffusion process to generate high-quality images and can also perform tasks like image inpainting and outpainting. It can also be used to translate images according to text prompts.            |   [Link](https://stability.ai/)    |
-| Descript                                      | Descript is an AI-powered text-to-speech program that can create a personalized voice model based on a user's voice. It can then use this model to generate speech that sounds like the user, making it ideal for voiceover work, podcasting, and other applications.            |   [Link](https://www.descript.com/?lmref=wVa-qw)    |
-| Jasper                                      | Jasper is an AI-powered copywriting tool that can generate high-quality content for blogs, social media, and marketing purposes. It uses natural language processing and machine learning to understand the user's needs and generate content that is tailored to their audience.            |   [Link](https://www.jasper.ai/)    |
-| Piggy Quiz Maker                                      | Piggy Quiz Maker is an AI-powered quiz generator that can create quizzes on any topic. It uses a natural language processing algorithm to understand the user's input and generate questions and answers that are relevant to the topic.            |   [Link](https://piggy.to/magic?magic_intent=quiz)    |
-| ChatGPT Writer                                      | ChatGPT Writer is a free Chrome extension that uses the ChatGPT language model to generate emails and replies based on a user's input. It can be used to save time and improve productivity by automating repetitive tasks.            |   [Link](https://chatgptwriter.ai/)    |
-| Namelix                                      | Namelix is an AI-powered tool that can generate short, brandable business names and domain names. It uses natural language processing and machine learning to understand the user's needs and generate names that are creative, catchy, and memorable.            |   [Link](https://namelix.com/)    |
-| Prodigy AI                                      | Prodigy AI is an AI-powered career coach for developers. It provides personalized career advice and guidance based on a user's unique skills, experience, and goals. It uses deep learning algorithms to analyze user data and provide tailored recommendations.            |   [Link](https://ai.prodi.gg/)    |
-| Hello History                                      | Hello History is an AI-powered conversation tool that allows users to have in-depth conversations with influential and fascinating figures from history. It uses natural language processing and machine learning to simulate conversations that are engaging and informative.            |   [Link](https://www.hellohistory.ai/)    |
-| Autodraw                                      | Autodraw is an AI tool that allows users to draw faster by guessing what object or shape they intend to draw. It uses machine learning to understand user input and provide relevant suggestions, making it easy to create accurate and detailed drawings quickly.            |   [Link](https://www.autodraw.com/)    |
-| Talk To Books                                      | Talk to Books is an experimental AI-powered tool that allows users to explore ideas and discover books by making statements or asking questions. It uses natural language processing to search through a database of books and provide relevant passages that match the user's query.            |   [Link](https://books.google.com/talktobooks/)    |
-| IdeasAI                                      | IdeasAI is a platform that generates ideas and prompts for creative projects, using the OpenAI GPT-3 language model. It provides a wide range of suggestions, from article topics to product names, and can help users overcome writer's block or generate fresh ideas for their work.            |   [Link](https://ideasai.com/)    |
-| Casper AI                                      | Casper AI is an AI-powered tool for professionals that simplifies their workflow by summarizing articles, creating content, and sharing insights. It uses natural language processing and machine learning to understand and analyze content, providing summaries and insights that are relevant to the user's needs.            |   [Link](https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel)    |
-| ThumbnailAi                                      | ThumbnailAI is an AI-powered tool that helps users optimize their YouTube thumbnails by providing an AI rating. It uses machine learning to analyze the thumbnail's visual elements and provides feedback on how to improve its effectiveness in attracting viewers.            |   [Link](https://thumbnail-ai.ybouane.com/)    |
-| ChatGPT Website Builder                                      | ChatGPT Website Builder is an AI-powered tool that allows users to generate a website by filling in a form. It uses the ChatGPT language model to create text, images, and styling that are customized to the user's needs, making it easy to create a professional-looking website quickly.            |   [Link](https://stunning.so/)    |
-| Mixo.io                                      | Mixo.io is an AI-powered website generator that can create a website in any language within seconds based on a brief description of an idea. It also helps users collect customer feedback and grow their audience with integrated subscriber management tools.            |   [Link](https://www.mixo.io/)    |
-| AI Trip Planner                                      | AI Trip Planner is a travel planning app that automatically creates a detailed, day-by-day itinerary for users' trips to any destination. It uses AI algorithms to analyze user preferences and provide personalized recommendations for activities, restaurants, and accommodations.            |   [Link](https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961)    |
-| Simplified                                      | Simplified is a free AI-powered copywriting assistant that generates content for blogs, articles, and other written materials. It uses machine learning to analyze the user's input and provide suggestions for headlines, introductions, and other key elements of effective writing.            |   [Link](https://simplified.com/ai-writer/)    |
-| BHuman                                      | BHuman is a platform that allows users to create personalized videos quickly and easily. With a single template, users can customize and edit their videos to meet their needs. The platform also offers instant measurement of the results of the video, allowing users to assess its effectiveness.            |   [Link](https://www.bhuman.ai/)    |
-| Vidyo                                      | Vidyo is an AI-powered tool that enables users to create short clips from longer videos, significantly saving time and effort. The platform uses artificial intelligence to identify the key moments of a longer video and creates shorter, more engaging clips that can be used for marketing or social media purposes.            |   [Link](https://vidyo.ai/)    |
-| StoryD                                      | StoryD is an AI-powered platform for creating engaging and impactful data presentations. The platform uses advanced algorithms to create visualizations that help users better understand complex data. StoryD's presentations are designed to be engaging and compelling, ensuring that audiences stay focused on the message.            |   [Link](https://www.storyd.ai/)    |
-| Tome                                      | Tome is an AI-powered tool that allows users to unlock their best work by generating personalized, high-quality storytelling content. The platform uses advanced algorithms to create content that is tailored to the user's needs and preferences, enabling them to communicate their message more effectively.            |   [Link](https://beta.tome.app/)    |
-| Robin                                      | Robin is an AI-powered platform that automates sales outreach, eliminating the need for human intervention. The platform uses machine learning algorithms to analyze data and identify potential leads, making it easier for businesses to target their marketing efforts more effectively.            |   [Link](https://www.hellorobin.ai/)    |
-| MarbleFlows                                      | MarbleFlows is an AI-powered platform that generates forms to convert more leads. The platform uses machine learning algorithms to analyze data and identify the most effective form fields for each user, ensuring that businesses can capture the information they need from potential customers.            |   [Link](https://app.marbleflows.com/ai-generator)    |
-| Cody                                      | Cody is an AI employee that helps users with coding tasks. The platform uses machine learning algorithms to analyze code and identify potential errors, providing users with actionable suggestions for improvement. Cody is designed to make coding easier and more efficient, enabling users to focus on more complex tasks.            |   [Link](https://www.meetcody.ai/)    |
-| Taskade                                      | Taskade is a platform that allows users to build a Second Brain for their team. The platform connects tasks, notes, and teams in one unified workspace, enabling users to collaborate more effectively and manage their projects more efficiently.            |   [Link](https://www.taskade.com/)    |
-| Merlin                                      | Merlin is an AI-powered platform that provides users with writing and editing support on any website. The platform uses machine learning algorithms to analyze text and provide users with suggestions for improvement, enabling them to communicate more effectively.            |   [Link](https://merlin.foyer.work/)    |
-| Moonbeam                                      | Moonbeam is an AI-powered platform that helps users write better long-form content in just 10 minutes. The platform uses advanced algorithms to analyze text and provide users with suggestions for improvement, enabling them to create compelling content quickly and efficiently.            |   [Link](https://www.gomoonbeam.com/)    |
-| Munch                                      | Munch is an AI-powered platform that allows users to create short clips from long-form videos. The platform is designed to help maximize social media exposure by creating engaging and visually appealing clips that can be shared on various social media platforms.            |   [Link](https://www.getmunch.com/)    |
-| ThumbnailAi                                      | ThumbnailAI is a platform that uses AI to provide reviews of YouTube thumbnails. The platform analyzes thumbnails to determine their effectiveness, helping users create more engaging and impactful thumbnails for their videos.            |   [Link](https://thumbnail-ai.ybouane.com/)    |
-| TwitterBio                                      | TwitterBio is an AI-powered tool that generates a Twitter bio in seconds using AI and the user's current bio. The platform uses machine learning algorithms to analyze the user's existing bio and create a new one that is more engaging and effective.            |   [Link](https://www.twitterbio.com/)    |
-| Papercup                                      | Papercup is an AI-powered platform that automates dubbing with AI in multiple languages. The platform uses machine learning algorithms to analyze video content and automatically generate dubbing tracks in multiple languages, enabling businesses to reach a wider audience more easily.            |   [Link](https://www.papercup.com/)    |
-| MakeMyTale                                      | MakeMyTale is an AI-powered platform that revolutionizes story creation. The platform uses advanced algorithms to generate personalized and unique stories, tailored to the user's preferences and needs. MakeMyTale is designed to make the process of creating stories faster, easier, and more fun.            |   [Link](https://makemytale.com/)    |
-| Skim It                                      | Skim It is an AI-powered platform that provides a summary of any article in approximately 10 minutes. The platform also includes tweets and LinkedIn posts related to the article, helping users get a better understanding of the article's context and significance.            |   [Link](https://www.skimit.ai/)    |
-| Repl AI                                      | Repl AI is an AI-powered platform that creates meaningful Twitter replies. The platform uses advanced algorithms to analyze tweets and generate responses that are relevant, engaging, and effective.            |   [Link](https://replai.so/)    |
-| StockImg AI                                      | StockImg AI is an AI-powered design service that helps users create logos, images, posters, book covers, and more. The platform uses machine learning algorithms to generate designs that are unique, visually appealing, and effective.            |   [Link](https://stockimg.ai/)    |
-| GPTGo                                      | GPTGo is a platform that combines ChatGPT with Google search. The platform allows users to ask questions and get answers powered by GPT-3, combined with relevant search results from Google.            |   [Link](https://www.hoppycopy.co/)    |
-| Monica                                      | Monica is a personal AI assistant that makes chatting and copywriting effortless. The platform uses advanced algorithms to generate personalized responses and suggestions, helping users communicate more effectively and efficiently.            |   [Link](https://monica.im/)    |
-| Looka                                      | Looka is an AI-powered platform that allows users to create custom logos using Looka Logo Maker. The platform uses advanced algorithms to generate unique and visually appealing designs tailored to the user's preferences and needs.            |   [Link](https://looka.com/)    |
-| Fliki                                      | Fliki is a platform that allows users to create videos from blog posts in just 2 minutes. The platform uses machine learning algorithms to analyze the blog post and automatically generate a video, making it easier for users to create engaging and visually appealing content.            |   [Link](https://fliki.ai/)    |
-| videos.social                              | videos.social turns blog posts, PDFs, and prompts into editable faceless videos. Start free — 1 render included. Packs from $10. 1 credit = 1 render.            |   [Link](https://videos.social/?utm_source=aliktk-latest-ai-tools-2023&utm_medium=directory&utm_campaign=listing-wave-d)    |
-| REimagine Home                                      | REimagine Home is an AI-powered platform that uses generative AI to redesign any room in seconds. The platform uses advanced algorithms to analyze room layouts, furniture, and decor, and generate multiple design options that users can choose from.            |   [Link](https://www.reimaginehome.ai/)    |
-| Descript                                      | Descript is a platform that allows users to create a text-to-speech model of their voice. The platform uses advanced algorithms to analyze audio recordings and generate a text-to-speech model that sounds like the user, allowing them to create voiceovers and other audio content more easily.            |   [Link](https://www.descript.com/)    |
-| HoppyCopy                                      | HoppyCopy is an AI-powered platform that allows users to create high-converting emails quickly using AI-generated copy. The platform uses advanced algorithms to analyze the user's brand, product, and target audience, and generate copy that is engaging, effective, and tailored to the user's needs.            |   [Link](https://www.hoppycopy.co/)    |
-| Magic Studio                                      | Magic Studio is a platform that allows users to create stunning visuals in seconds. The platform uses advanced algorithms to analyze the user's content and automatically generate visually appealing designs, making it easier for users to create engaging and impactful visual content.            |   [Link](https://magicstudio.com/)    |
-| Lucidpic                                      | Lucidpic is an AI-powered platform that generates quality stock photos of people that don't exist, in seconds. The platform uses advanced algorithms to analyze facial features, expressions, and other characteristics to generate realistic-looking images that can be used for various purposes.            |   [Link](https://lucidpic.com/)    |
-| Durable                                      | Durable is a platform that allows users to create a website, automate marketing, and manage finances in just 30 seconds. The platform uses advanced algorithms to analyze the user's needs and preferences and automatically generate a website that is engaging, effective, and tailored to the user's needs.            |   [Link](https://durable.co/)    |
-| WolframAlpha                                      | WolframAlpha is a platform that computes expert-level answers in Math, Science, Society, Culture, and Everyday Life. The platform uses advanced algorithms to analyze user queries and generate accurate and reliable answers, making it easier for users to find the information they need.            |   [Link](https://www.wolframalpha.com/)    |
-| SheetAI.app                                      | SheetAI.app is an AI-powered tool that allows users to quickly generate formulas for Google Sheets. The platform uses advanced algorithms to analyze data and automatically generate formulas that are accurate and effective, making it easier for users to work with data in Google Sheets.            |   [Link](https://www.sheetai.app/)    |
-| Supercreator.ai                                      | Supercreator.ai is a platform that uses AI to help users create short-form videos 10 times faster than traditional methods.            |   [Link](https://www.supercreator.ai/)    |
-| Tavus                                      | Tavus is an AI-powered tool that generates personalized videos for product, marketing, and sales teams to help them better connect with their audience.            |   [Link](https://www.tavus.io/)    |
-| Windsor                                      | Windsor is an AI platform that sends personalized videos to millions of customers to build brand loyalty and create a more engaging customer experience.            |   [Link](https://www.windsor.io/)    |
-| StockImg AI                                      | StockImg AI is an AI-powered design service that helps users create logos, images, posters, book covers, and other designs quickly and easily.            |   [Link](https://stockimg.ai/)    |
-| Dreamer                                      | Dreamer is an AI-powered tool that integrates with Notion to generate images using a slash command, allowing users to create visuals for their notes and projects more easily.            |   [Link](https://slashdreamer.com/)    |
-| Notion AI                                      | Notion AI is an AI-powered tool that unlocks new capabilities within Notion, such as faster writing and expanded thinking, to help users be more productive and creative.            |   [Link](https://www.notion.so/product/ai)    |
-| Bearly                                      | Bearly is an AI-powered tool that helps users create summaries, outlines, and reworded content for research articles, making it easier to digest and utilize the information.            |   [Link](https://bearly.ai/)    |
-| Galileo                                      | Galileo is an AI tool that converts text to user interface designs in Figma, making it easier for designers to create interfaces more quickly and efficiently.            |   [Link](https://www.usegalileo.ai/)    |
-| Vizard                                      | Vizard is an AI-powered tool that helps content marketers create professional-looking webinar recordings, enabling them to deliver high-quality content to their audience.            |   [Link](https://vizard.ai/)    |
-| SlidesAI                                      | SlidesAI is an AI-powered tool that helps users create professional-looking slides in seconds, making it easier to create presentations and other visual content.            |   [Link](https://www.slidesai.io/?)    |
-| Olli.ai                                      | Olli.ai is an AI data analysis tool that helps teams answer questions and create charts 10 times faster, allowing them to make data-driven decisions more efficiently.            |   [Link](https://olli.ai/)    |
-| Murf AI                                      | Murf AI is an AI-powered tool that uses real people's voices to create studio-quality voiceovers, making it easier and more affordable to produce high-quality audio content.            |   [Link](https://murf.ai/)    |
-| Whisper Memos                                      | Whisper Memos is a tool that allows users to record voice memos and receive transcriptions via email in just a few minutes, making it easier to keep track of important notes and ideas.            |   [Link](https://whispermemos.com/)    |
-| Soundful                                      | Soundful is a platform that provides royalty-free music with just a click of a button, making it easier for creators to find and use high-quality music in their projects.            |   [Link](https://soundful.com/)    |
-| Steno                                      | Steno is a platform that provides full transcripts of podcasts, allowing users to listen and read along, making it easier to remember important information and quotes.            |   [Link](https://steno.ai/)    |
-| Nanonets                                      | Nanonets is an AI-powered OCR platform that automates data entry, saving users time and increasing accuracy.            |   [Link](https://nanonets.com/home-new)    |
-| Lumen5                                      | Lumen5 is a video creation platform designed for brands and businesses, making it easier to create high-quality videos for marketing and other purposes.            |   [Link](https://lumen5.com/)    |
-| Jenni                                      | Jenni is an AI-powered writing assistant that helps users improve their writing by providing suggestions for grammar, style, and more.            |   [Link](https://jenni.ai/)    |
-| Quinvio AI                                      | Quinvio AI is a video creation tool that uses AI assistance to help users create videos quickly and easily, without the need for extensive video editing skills.            |   [Link](https://www.quinv.io/ai)    |
+This repository is a hand-curated collection of the most useful AI tools across chat, writing, images, video, audio, coding, productivity, and research. It started in 2023 and is now **updated on a rolling basis** as the market moves — old tools are pruned, links are fixed, and new tools are added.
 
-# 3️⃣ Contribution
+Whether you are a **beginner** exploring AI for the first time or a **seasoned professional** looking for the right tool for a job, this is your jumping-off point. Tools are grouped into categories so you can scan quickly and compare at a glance.
 
-We greatly appreciate your contribution in enhancing the "Latest-AI-Tools-2023" repository! If you come across any exceptional AI tools that are not currently listed, or if you have suggestions for improving the repository, please feel free to open an issue or submit a pull request through the provided links here and here respectively. Additionally, don't forget to star or fork the repository for future reference. Your valuable input will help us make this repository even more comprehensive and valuable to the AI community. Thank you for your support!
+> 💡 **New here?** Jump to a category from the [Table of Contents](#-table-of-contents), or browse everything top to bottom.
 
-Let's collaborate to make this AI tools list the ultimate resource on GitHub! 🚀
+---
+
+## ⭐ Featured — Built by Pak AI
+
+<table>
+  <tr>
+    <td>
+      <b><a href="https://pakai.tech/?utm_source=aliktk-latest-ai-tools&utm_medium=directory&utm_campaign=featured">Pak AI (pakai.tech)</a></b> — <i>“AI-first Solutions. Real-World Impact.”</i><br/><br/>
+      An AI-first technology company (Islamabad, Pakistan) building production-grade AI, ML, and software products for global clients. Specializes in <b>chatbots & agentic AI</b> (RAG, fine-tuning, Azure OpenAI), <b>computer vision & medical imaging</b>, <b>MLOps & predictive analytics</b>, <b>multilingual NLP & voice agents</b>, and <b>full-stack web engineering</b> (Next.js, NestJS, FastAPI) — with a focus on evaluation, observability, and long-term maintainability.<br/><br/>
+      🔗 <a href="https://pakai.tech/?utm_source=aliktk-latest-ai-tools&utm_medium=directory&utm_campaign=featured"><b>Visit pakai.tech →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📑 Table of Contents
+
+1. [💬 Chatbots, Assistants & LLMs](#-chatbots-assistants--llms)
+2. [💻 Coding & Development](#-coding--development)
+3. [✍️ Writing & Copywriting](#️-writing--copywriting)
+4. [🎨 Image Generation & Design](#-image-generation--design)
+5. [🎬 Video Creation & Editing](#-video-creation--editing)
+6. [🔊 Audio, Voice & Music](#-audio-voice--music)
+7. [📊 Productivity, Notes & Presentations](#-productivity-notes--presentations)
+8. [🌐 Websites, No-Code & Business](#-websites-no-code--business)
+9. [🔬 Research, Data & Knowledge](#-research-data--knowledge)
+10. [🎉 Fun & Experimental](#-fun--experimental)
+11. [🤝 Contributing](#-contributing)
+
+---
+
+## 💬 Chatbots, Assistants & LLMs
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| ChatGPT | OpenAI's flagship conversational AI for writing, reasoning, coding, and image generation. | [Link](https://chat.openai.com) |
+| Claude | Anthropic's assistant known for long-context reasoning, writing, and coding (powers Claude Code). | [Link](https://claude.ai) |
+| Gemini | Google's multimodal assistant integrated across Search, Workspace, and Android. | [Link](https://gemini.google.com) |
+| Microsoft Copilot | Microsoft's AI companion built into Windows, Edge, and Microsoft 365. | [Link](https://copilot.microsoft.com) |
+| Perplexity | AI answer engine that replies with cited, real-time web sources. | [Link](https://www.perplexity.ai) |
+| DeepSeek | Open, low-cost frontier models strong at reasoning and coding. | [Link](https://www.deepseek.com) |
+| Grok | xAI's assistant with real-time access to X (Twitter). | [Link](https://grok.com) |
+| Mistral (Le Chat) | Fast assistant backed by open-weight European models. | [Link](https://chat.mistral.ai) |
+| Meta AI | Meta's assistant across WhatsApp, Instagram, and Messenger. | [Link](https://www.meta.ai) |
+| Poe | One app to chat with many models (GPT, Claude, Gemini, and more). | [Link](https://poe.com) |
+| Monica | All-in-one AI assistant for chat and copywriting on any site. | [Link](https://monica.im) |
+| Merlin | Browser extension bringing AI chat and writing help to any page. | [Link](https://merlin.foyer.work) |
+| GPTGo | Free search engine that blends ChatGPT answers with Google results. | [Link](https://gptgo.ai) |
+
+## 💻 Coding & Development
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| GitHub Copilot | AI pair programmer that suggests code and whole functions in your editor. | [Link](https://github.com/features/copilot) |
+| Cursor | AI-first code editor built for pair-programming across your whole codebase. | [Link](https://cursor.com) |
+| Claude Code | Anthropic's agentic coding tool that lives in your terminal and IDE. | [Link](https://www.anthropic.com/claude-code) |
+| Windsurf | Agentic IDE (formerly Codeium) with deep codebase awareness. | [Link](https://windsurf.com) |
+| v0 | Vercel's generative UI tool — describe an interface, get React/Tailwind code. | [Link](https://v0.dev) |
+| Bolt.new | Prompt full-stack web apps into existence, right in the browser. | [Link](https://bolt.new) |
+| Lovable | Build and ship full-stack apps from natural language. | [Link](https://lovable.dev) |
+| Replit | Cloud IDE with an AI Agent that builds and deploys apps. | [Link](https://replit.com) |
+| Sourcegraph Cody | AI coding assistant with codebase-wide context. | [Link](https://sourcegraph.com/cody) |
+| Tabnine | Privacy-focused AI code completion for teams. | [Link](https://www.tabnine.com) |
+| Warp | AI-powered terminal that turns natural language into commands. | [Link](https://www.warp.dev) |
+
+## ✍️ Writing & Copywriting
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| Jasper | AI copywriting platform for marketing content at scale. | [Link](https://www.jasper.ai) |
+| Copy.ai | AI copywriter and GTM workflows for sales and marketing. | [Link](https://www.copy.ai) |
+| Jenni | AI writing assistant for essays, research, and long-form. | [Link](https://jenni.ai) |
+| Simplified | Free AI writer plus design and social tools. | [Link](https://simplified.com/ai-writer) |
+| Moonbeam | AI writer specialized in long-form content. | [Link](https://www.gomoonbeam.com) |
+| HoppyCopy | AI copywriter focused on high-converting emails. | [Link](https://www.hoppycopy.co) |
+| ChatGPT Writer | Chrome extension that drafts emails and replies anywhere. | [Link](https://chatgptwriter.ai) |
+| Bearly | Summarize, rewrite, and research faster across the web. | [Link](https://bearly.ai) |
+| Skim It | Summarizes any article, plus related social context. | [Link](https://www.skimit.ai) |
+| Casper AI | Summarizes articles and drafts content for professionals. | [Link](https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel) |
+| TwitterBio | Generates a catchy Twitter/X bio from your current one. | [Link](https://www.twitterbio.com) |
+| Repl AI | Generates meaningful Twitter/X replies. | [Link](https://replai.so) |
+
+## 🎨 Image Generation & Design
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| Midjourney | High-quality artistic image generation from text prompts. | [Link](https://www.midjourney.com) |
+| DALL·E 3 | OpenAI's image generator, available inside ChatGPT. | [Link](https://openai.com/dall-e-3) |
+| Stable Diffusion | Open image-generation model for text-to-image and editing. | [Link](https://stability.ai) |
+| Adobe Firefly | Adobe's commercially-safe generative imaging, built into Creative Cloud. | [Link](https://www.adobe.com/products/firefly.html) |
+| Leonardo.Ai | Image generation and editing suite for creators and game art. | [Link](https://leonardo.ai) |
+| Ideogram | Text-to-image model that renders legible text well. | [Link](https://ideogram.ai) |
+| Flux | Black Forest Labs' state-of-the-art open image models. | [Link](https://blackforestlabs.ai) |
+| Recraft | Design-grade image and vector generation with brand styles. | [Link](https://www.recraft.ai) |
+| Krea | Real-time generation and upscaling for images and video. | [Link](https://www.krea.ai) |
+| Canva Magic Studio | AI design tools built into Canva. | [Link](https://www.canva.com/magic) |
+| Magic Studio | Remove backgrounds and create visuals in seconds. | [Link](https://magicstudio.com) |
+| StockImg AI | Generate logos, posters, book covers, and more. | [Link](https://stockimg.ai) |
+| Looka | AI logo maker and brand kit generator. | [Link](https://looka.com) |
+| Lucidpic | Generate realistic stock photos of AI-created people. | [Link](https://lucidpic.com) |
+| Autodraw | Turns rough doodles into clean icons and drawings. | [Link](https://www.autodraw.com) |
+| ThumbnailAI | Rates and improves YouTube thumbnails. | [Link](https://thumbnail-ai.ybouane.com) |
+| REimagine Home | AI interior design and home staging. | [Link](https://www.reimaginehome.ai) |
+| Galileo AI | Turns text prompts into editable Figma UI designs. | [Link](https://www.usegalileo.ai) |
+| Dreamer | Generate images inside Notion with a slash command. | [Link](https://slashdreamer.com) |
+
+## 🎬 Video Creation & Editing
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| Sora | OpenAI's text-to-video model for realistic short clips. | [Link](https://sora.com) |
+| Runway | Pro-grade AI video generation and editing. | [Link](https://runwayml.com) |
+| Pika | Text- and image-to-video generation. | [Link](https://pika.art) |
+| Kling AI | High-fidelity AI video generation. | [Link](https://klingai.com) |
+| Luma Dream Machine | Fast, cinematic text/image-to-video. | [Link](https://lumalabs.ai/dream-machine) |
+| HeyGen | AI avatars and spokesperson videos with translation. | [Link](https://www.heygen.com) |
+| Synthesia | Studio-quality AI avatar videos in 140+ languages. | [Link](https://www.synthesia.io) |
+| Fliki | Turn blog posts and scripts into videos with AI voices. | [Link](https://fliki.ai) |
+| videos.social | Turns blog posts, PDFs, and prompts into editable faceless videos. Start free — 1 render included. | [Link](https://videos.social/?utm_source=aliktk-latest-ai-tools-2023&utm_medium=directory&utm_campaign=listing-wave-d) |
+| Vizard | Turn long videos into short, social-ready clips. | [Link](https://vizard.ai) |
+| Munch | Repurpose long videos into engaging short clips. | [Link](https://www.getmunch.com) |
+| Vidyo | Create short clips from long videos automatically. | [Link](https://vidyo.ai) |
+| Lumen5 | Turn text and blogs into marketing videos. | [Link](https://lumen5.com) |
+| Tavus | Personalized AI video at scale for sales and marketing. | [Link](https://www.tavus.io) |
+| BHuman | Personalized videos from a single template. | [Link](https://www.bhuman.ai) |
+| Papercup | AI dubbing into multiple languages. | [Link](https://www.papercup.com) |
+
+## 🔊 Audio, Voice & Music
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| ElevenLabs | Best-in-class AI voice generation and cloning. | [Link](https://elevenlabs.io) |
+| Suno | Generate full songs with vocals from a prompt. | [Link](https://suno.com) |
+| Udio | AI music generation with high audio quality. | [Link](https://www.udio.com) |
+| Murf AI | Studio-quality AI voiceovers using real-sounding voices. | [Link](https://murf.ai) |
+| Descript | Edit audio and video by editing text; includes voice cloning. | [Link](https://www.descript.com) |
+| Play.ht | Realistic AI text-to-speech voices. | [Link](https://play.ht) |
+| Soundful | Royalty-free AI-generated music at the click of a button. | [Link](https://soundful.com) |
+| Whisper Memos | Record voice memos and get transcripts by email. | [Link](https://whispermemos.com) |
+| Steno | Full podcast transcripts to read along. | [Link](https://steno.ai) |
+
+## 📊 Productivity, Notes & Presentations
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| Notion AI | AI writing and Q&A built into Notion. | [Link](https://www.notion.so/product/ai) |
+| NotebookLM | Google's research assistant grounded in your sources, with Audio Overviews. | [Link](https://notebooklm.google.com) |
+| Gamma | Generate polished decks, docs, and webpages from a prompt. | [Link](https://gamma.app) |
+| Tome | AI-generated presentations and storytelling. | [Link](https://tome.app) |
+| SlidesAI | Create slides from text in Google Slides. | [Link](https://www.slidesai.io) |
+| StoryD | Fast, data-driven business presentations. | [Link](https://www.storyd.ai) |
+| Taskade | AI-powered tasks, notes, and team workflows in one workspace. | [Link](https://www.taskade.com) |
+| Otter.ai | Live meeting transcription and summaries. | [Link](https://otter.ai) |
+| Cody | AI assistant trained on your business's own knowledge base. | [Link](https://www.meetcody.ai) |
+| Nanonets | AI OCR and document data extraction. | [Link](https://nanonets.com) |
+| SheetAI | AI formulas and text generation in Google Sheets. | [Link](https://www.sheetai.app) |
+| Namelix | Generate short, brandable business names. | [Link](https://namelix.com) |
+
+## 🌐 Websites, No-Code & Business
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| Durable | Build a website and run a small business in seconds. | [Link](https://durable.co) |
+| Mixo | Launch a landing page in seconds from a short description. | [Link](https://www.mixo.io) |
+| Stunning | Build a website with ChatGPT-powered generation. | [Link](https://stunning.so) |
+| MarbleFlows | AI-generated forms and flows to convert more leads. | [Link](https://marbleflows.com) |
+| Robin | Automate sales outreach with AI. | [Link](https://www.hellorobin.ai) |
+| AI Trip Planner | Auto-generate day-by-day travel itineraries. | [Link](https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961) |
+
+## 🔬 Research, Data & Knowledge
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| Consensus | AI search across 200M+ research papers, with citations. | [Link](https://consensus.app) |
+| Elicit | AI research assistant for literature reviews. | [Link](https://elicit.com) |
+| Julius AI | Analyze data and create charts by chatting. | [Link](https://julius.ai) |
+| Olli.ai | Ask questions of your data and get charts fast. | [Link](https://olli.ai) |
+| WolframAlpha | Computational answers across math, science, and more. | [Link](https://www.wolframalpha.com) |
+| IdeasAI | GPT-powered startup and project idea generator. | [Link](https://ideasai.com) |
+
+## 🎉 Fun & Experimental
+
+| Name | Description | Link |
+|:-----|:------------|:----:|
+| Hello History | Have in-depth chats with historical figures. | [Link](https://www.hellohistory.ai) |
+| MakeMyTale | Generate personalized, unique stories. | [Link](https://makemytale.com) |
+| Piggy Quiz Maker | AI quiz generator on any topic. | [Link](https://piggy.to/magic?magic_intent=quiz) |
+| Prodigy AI | AI career coach for developers. | [Link](https://ai.prodi.gg) |
+
+---
+
+## 🤝 Contributing
+
+Contributions are very welcome — this list stays useful only because people keep it fresh!
+
+- **Found a great tool that's missing?** [Open an issue](https://github.com/Aliktk/Latest-AI-Tools/issues/new) or [submit a pull request](https://github.com/Aliktk/Latest-AI-Tools/compare).
+- **Spotted a dead link or an outdated tool?** [Let us know in an issue](https://github.com/Aliktk/Latest-AI-Tools/issues/new).
+- Please keep entries in the right category, use a **one-line description**, and link to the official site.
+
+If this list helped you, please ⭐ **star** and **fork** the repo so others can find it too.
+
+Let's collaborate to make this the ultimate AI tools resource on GitHub! 🚀
+
+---
+
+<p align="center"><sub>Maintained by <a href="https://github.com/Aliktk">Aliktk</a> · Featured partner: <a href="https://pakai.tech/?utm_source=aliktk-latest-ai-tools&utm_medium=directory&utm_campaign=footer">Pak AI</a> · Updated regularly.</sub></p>
